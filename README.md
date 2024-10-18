@@ -1,10 +1,14 @@
 # Estudo de comandos NASM
 
+<p align="right">
 <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="eu não posso mais" width=100>
-
+</p>
+<p align="center">
 <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="eu não posso mais" width=196>
-
+</p>
+<p>
 <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="eu não posso mais" width=289>
+</p>
 
 ## primeiros comandos
 
